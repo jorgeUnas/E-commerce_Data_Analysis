@@ -1,7 +1,7 @@
 # E-commerce Data Analysis
 ## Project Description
 
-1. **How profit and sales varied in 2018?**
+## 1. How profit and sales varied in 2018?
 ** Summary: **
 
 This is an interactive dashboard containing KPI’s, 2 line plots and a bar plot. By default, the KPI’s represent the performance of the company in the 4 years (2014-2018) but it can be filter (using the dropdown) to show them for a specific year (In this case 2018). The first bar plot displays the monthly variation of the profit. In December 2018, it was a substantial reduction in the monthly profit caused probably because the company had some additional costs in goods. In the second line plot it is evident that the sales over this year increased while the profit reduced steadily, supporting the idea that the costs increased during this year but kept the profit margin in 10%, which still looks financially positive. On the other hand, the sales were minimum during weekends in summer probably because the weather favors those consumers buy in physical stores rather making online orders. Then my recommendation to Unicorn is to apply some discounts and offers during these days. 
