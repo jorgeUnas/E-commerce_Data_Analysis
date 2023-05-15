@@ -1,7 +1,8 @@
 # E-commerce Data Analysis
 ## Project Description
 
-<a hrf= "https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"></a>
+https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
+
 
 ### 1. How profit and sales varied in 2018?
 **Summary:**
