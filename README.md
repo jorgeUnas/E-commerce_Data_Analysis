@@ -28,6 +28,5 @@ This interactive dashboard contains a dot plot, a pie plot and a bar plot. In th
  <img src="https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/Who%20bought%20the%20most%20during%202018%20in%20New%20York%20city.png" alt="Who bought the most during 2018 in New York city?"> 
 
 ### 4. Which were the most profitable category and products in NYC during 2018?
-**Summary:**
 
  <img src="https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/Which%20were%20the%20most%20profitable%20category%20and%20products.png" alt="Which were the most profitable category and products in NYC during 2018?"> 
