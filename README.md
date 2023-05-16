@@ -1,7 +1,7 @@
 # E-commerce Data Analysis
 ## Project Description
 
-[Click here to see the project in Tableau](https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Click here to see the project on Tableau](https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ### 1. How profit and sales varied in 2018?
