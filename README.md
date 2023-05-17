@@ -4,6 +4,7 @@ KPI's Tableau dashboards are used to analyse the performance of an e-commerce US
 
 [Click here to see the project on Tableau](https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+[Click here to watch my presentation to the CEO of the E-commerce company](https://www.loom.com/share/edfeddc138724d25b67004a480d64f62)
 
 ### 1. How profit and sales varied in 2018?
 
