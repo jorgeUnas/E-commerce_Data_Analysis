@@ -12,7 +12,7 @@ This is an interactive dashboard that contains KPIs, two line plots, and a bar p
 
 <p align="center">
  
- <img src="https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/How%20profit%20and%20sales%20varied%20in%202018.png" alt="How profit and sales varied in 2018?" height="500"> 
+ <img src="https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/How%20profit%20and%20sales%20varied%20in%202018.png" alt="How profit and sales varied in 2018?" height=""> 
 </p>
 
 ### 2. Which were the most profitable state and city?
