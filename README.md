@@ -10,8 +10,10 @@ KPI's Tableau dashboards are used to analyse the performance of an e-commerce US
 
 This is an interactive dashboard containing KPI’s, 2 line plots and a bar plot. By default, the KPI’s represent the performance of the company in the 4 years (2014-2018) but it can be filter (using the dropdown) to show them for a specific year (In this case 2018). The first bar plot displays the monthly variation of the profit. In December 2018, it was a substantial reduction in the monthly profit caused probably because the company had some additional costs in goods. In the second line plot it is evident that the sales over this year increased while the profit reduced steadily, supporting the idea that the costs increased during this year but kept the profit margin in 10%, which still looks financially positive. On the other hand, the sales were minimum during weekends in summer probably because the weather favors those consumers buy in physical stores rather making online orders. Then my recommendation to Unicorn is to apply some discounts and offers during these days. 
 
+<p align="center">
+ 
  <img src="https://github.com/jorgeUnas/E-commerce_Data_Analysis/blob/main/How%20profit%20and%20sales%20varied%20in%202018.png" alt="How profit and sales varied in 2018?"> 
-
+</p>
 
 ### 2. Which were the most profitable state and city?
 
