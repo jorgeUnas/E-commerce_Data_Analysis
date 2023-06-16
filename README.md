@@ -1,6 +1,6 @@
 # E-commerce Data Analysis
 ## Project Description
-KPI's Tableau dashboards are used to analyse the performance of an e-commerce US company and offer strategies to stakeholders to increase sales and reduce costs.
+Tableau dashboards are used to analyse the performance of an e-commerce US company and offer strategies to stakeholders to increase sales and reduce costs.
 
 [Click here to see the project on Tableau](https://public.tableau.com/views/E-commerceDataAnalysis_16819218022800/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
